@@ -1,0 +1,19 @@
+{
+  "name": "single-byte-text-wrapper",
+  "version": "0.0.1",
+  "description": "Wrap single byte text with span tag to set better font style, especially for mixed font-style between multibyte language and ascii chars. Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sisidovski/single-byte-text-wrapper.git"
+  },
+  "author": "sisidovski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sisidovski/single-byte-text-wrapper/issues"
+  },
+  "homepage": "https://github.com/sisidovski/single-byte-text-wrapper#readme"
+}
